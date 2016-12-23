@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akatechlogo",
-    "currentPage": "index.html",
+    "currentPage": "yeninesil",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -391,7 +391,7 @@
               "src": "@PROJECT_PATH@/assets/images/babillogo-595x128-80.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -842,7 +842,7 @@
               "src": "@PROJECT_PATH@/assets/images/babillogo-595x128-80.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
@@ -1293,7 +1293,7 @@
               "src": "@PROJECT_PATH@/assets/images/babillogo-595x128-80.png",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "index.html",
               "title": "",
               "linkInNewWindow": false
             },
