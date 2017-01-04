@@ -634,6 +634,14 @@ h6,
 #msg-box8-i .lead P {
   font-size: 30px;
 }
+#header3-1r .mbr-section-title,
+#header3-1r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1r H3 {
+  font-size: 30px;
+  color: #515151;
+}
 #msg-box8-k .mbr-section-title,
 #msg-box8-k p {
   color: #fff;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Akatechlogo",
-    "currentPage": "egitimzirvesi",
+    "currentPage": "adaninkulturu",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/babillogo-595x128-80-128x27-89.png",
     "noImageResize": "true",
     "versionFirst": "3.9.2",
-    "uniqCompNum": 62,
+    "uniqCompNum": 64,
     "versionPublish": "3.9.2",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png",
@@ -663,7 +663,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-20.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -679,7 +679,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"kulturelbirikim\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -695,7 +695,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"adaninkulturu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -711,7 +711,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"yeninesil\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 3</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -727,7 +727,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"yukselendegerler\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 4</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -938,6 +938,55 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px",
+              "color": "#515151"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Logo2 Versiyonlar",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1q",
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo2-versiyonlar.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "_params": {
+            "showText": false
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free."
+        },
+        {
+          "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
             }
@@ -1122,7 +1171,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-20.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1138,7 +1187,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"kulturelbirikim\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1154,7 +1203,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"adaninkulturu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1170,7 +1219,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"yeninesil\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 3</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1186,7 +1235,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"yukselendegerler\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 4</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1581,7 +1630,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-20.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1597,7 +1646,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"kulturelbirikim\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1613,7 +1662,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"adaninkulturu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1629,7 +1678,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"yeninesil\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 3</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1645,7 +1694,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"yukselendegerler\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 4</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2040,7 +2089,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-20.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2056,7 +2105,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"kulturelbirikim\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2072,7 +2121,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"adaninkulturu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2088,7 +2137,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"yeninesil\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 3</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2104,7 +2153,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"yukselendegerler\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 4</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2499,7 +2548,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-25.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo2b-01-20.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2515,7 +2564,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"kulturelbirikim\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 1</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-16.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo1a-01-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2531,7 +2580,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"adaninkulturu\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 2</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-17.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo4-01-12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2547,7 +2596,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"yeninesil\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 3</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-018.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo6-013.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -2563,7 +2612,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"yukselendegerler\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">LOGO 4</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-19.jpg",
+              "src": "@PROJECT_PATH@/assets/images/akatech-logo5-01-14.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
